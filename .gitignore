@@ -14,12 +14,6 @@
 *.la
 *.lo
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
 # Executables
 *.exe
 *.out
@@ -28,5 +22,11 @@
 *.x86_64
 *.hex
 
-# Debug files
+# Other files
 *.dSYM/
+*.csproj.user
+*.suo
+Properties/
+bin/
+obj/
+
