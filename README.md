@@ -7,7 +7,9 @@ Usage:
 zipgo [-i <Input>] [-o <Output>] [-p <SearchPattern>] interval
 
 -Interval : frequency of checking for input files, value is in minutes
+
 -o Output : output folder, default value is current directory
+
 -p SearchPattern : the search string to match against the file name. You can use wildcard * and ?, default value is *.*
 
 Examples:
