@@ -26,7 +26,6 @@
 *.dSYM/
 *.csproj.user
 *.suo
-Properties/
 bin/
 obj/
 
